@@ -1,2 +1,2 @@
 # unogame_c
-uno game using c
+Uno game made using C language that can be used in the terminal
